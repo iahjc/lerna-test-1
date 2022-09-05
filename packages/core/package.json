@@ -21,5 +21,6 @@
   },
   "scripts": {
     "test": "node ./__tests__/@yzm-cli/core.test.js"
-  }
+  },
+  "gitHead": "4a426396df123ffb96f84aff504463d33d89c39d"
 }
