@@ -1,7 +1,4 @@
-'use strict';
+#! /usr/bin/env node
 
-module.exports = core;
+console.log('hello world');
 
-function core() {
-    return "Hello from core";
-}
